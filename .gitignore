@@ -1,0 +1,4 @@
+*.terraform
+*.venv
+*.terraform.tfstate
+*.terraform.tfstate.backup
